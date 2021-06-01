@@ -1,0 +1,17 @@
+.body_background{
+    background-image: url("images.jpeg");
+    text-align: center;
+    
+}
+.center{
+    background: linear-gradient(#57cfff 0%, #5773ff 100%);
+    padding: 10px;
+	float: none;
+    border-radius: 15px;
+}
+.login_div{
+    background: linear-gradient(#5f57ff 0%, #9757ff 100%);
+    padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
